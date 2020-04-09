@@ -1,26 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import Timer from "./Components/Timer/timer";
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+class App extends Component {
+  
+  onTick = () => this.state.time;
+  
+    render() {
+      return (
+        <div className="App">
+          <Timer time = {600} step = {1} onTick={(state) => state.count}  />
+          <Timer time = {1200} step = {2} onTick={(state) => state.count}  />
+        </div>
+      );
+    }
+  }
 
 export default App;
