@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reac-life-cycles/static/css/main.5dc5b9ed.chunk.css",
+    "main.js": "/Reac-life-cycles/static/js/main.963981aa.chunk.js",
+    "main.js.map": "/Reac-life-cycles/static/js/main.963981aa.chunk.js.map",
+    "runtime-main.js": "/Reac-life-cycles/static/js/runtime-main.3d54aaad.js",
+    "runtime-main.js.map": "/Reac-life-cycles/static/js/runtime-main.3d54aaad.js.map",
+    "static/js/2.00153def.chunk.js": "/Reac-life-cycles/static/js/2.00153def.chunk.js",
+    "static/js/2.00153def.chunk.js.map": "/Reac-life-cycles/static/js/2.00153def.chunk.js.map",
+    "index.html": "/Reac-life-cycles/index.html",
+    "precache-manifest.2be38e6ff26ccec9c0560bfaf4bb4a66.js": "/Reac-life-cycles/precache-manifest.2be38e6ff26ccec9c0560bfaf4bb4a66.js",
+    "service-worker.js": "/Reac-life-cycles/service-worker.js",
+    "static/css/main.5dc5b9ed.chunk.css.map": "/Reac-life-cycles/static/css/main.5dc5b9ed.chunk.css.map",
+    "static/js/2.00153def.chunk.js.LICENSE.txt": "/Reac-life-cycles/static/js/2.00153def.chunk.js.LICENSE.txt",
+    "static/media/stopwatch.png": "/Reac-life-cycles/static/media/stopwatch.89dd00c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d54aaad.js",
+    "static/js/2.00153def.chunk.js",
+    "static/css/main.5dc5b9ed.chunk.css",
+    "static/js/main.963981aa.chunk.js"
+  ]
+}
